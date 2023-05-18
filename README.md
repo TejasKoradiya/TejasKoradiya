@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TejasKoradiya
-- 👀 I’m interested in Cryptography and Block Chain Technology.
-- 🌱 I’m currently learning Javascript and Pursuing my undergraduate degree.
-- 💞️ I’m looking to collaborate ...
+- 👀 I’m interested in Machine Learning and Data Science.
+- 🌱 I’m currently learning Javascript, Python and Machine Learning methods and Pursuing my undergraduate degree.
+- 💞️ I’m looking to collaborate on projects focused on Data Science, business and finance.
 - 📫 How to reach me : mail koradiyatejas451@gmail.com
 
 <!---
